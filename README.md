@@ -5,8 +5,8 @@ Los enum son los tipos de datos especiales en donde una variable puede contener 
 
 Los enum pueden utilizar __metodos,__ tales como:
 ```
-.values( )
-.name( )
-.ordinal( )
-.toString( )
+.values()
+.name()
+.ordinal()
+.toString()
 ```
